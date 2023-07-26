@@ -1,0 +1,9 @@
+_deps
+build
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
+elf2uf2
+generated
+Makefile
+pico-sdk
